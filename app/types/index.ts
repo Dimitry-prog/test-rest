@@ -2,5 +2,5 @@ export type ITodo = {
   userId: number,
   id: number,
   title: string,
-  isDone: boolean,
+  completed: boolean,
 }
